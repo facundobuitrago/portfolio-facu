@@ -1,11 +1,19 @@
 import React from "react";
 
 const skills = [
+  // Frontend
   { icon: "fa-html5", name: "HTML" },
   { icon: "fa-css3-alt", name: "CSS" },
   { icon: "fa-js", name: "JavaScript" },
   { icon: "fa-react", name: "React" },
+
+  // Backend
+  { icon: "fa-node-js", name: "Node.js" },
+  { icon: "fa-database", name: "MongoDB" },
+  { icon: "fa-network-wired", name: "APIs REST" },
+  { icon: "fa-lock", name: "JWT / Seguridad" },
 ];
+
 
 export default function Skills() {
   return (
