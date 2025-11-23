@@ -5,31 +5,39 @@ import About from "./components/About";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Certificates from "./components/Certificates";
+import BackendExperience from "./components/BackendExperience";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import { FaLinkedin, FaEnvelope, FaGithub } from "react-icons/fa";
 import backendCert from "./assets/backend.png";
 import reactCert from "./assets/react.png";
 import jsCert from "./assets/js.png";
 import devWebCert from "./assets/desarrollo.png";
 import WhatsAppButton from "./components/WhatsAppButton";
 
-
 export default function App() {
   const projects = [
     {
       title: "Landing Page",
-      description: "Página moderna construida con HTML, CSS y un enfoque mobile-first.",
+      description:
+        "Página moderna construida con HTML, CSS y un enfoque mobile-first.",
       link: "#",
     },
     {
-      title: "E-commerce Fake",
-      description: "Catálogo de productos con filtros y carrito básico usando JavaScript.",
+      title: "E-commerce Fake (Frontend)",
+      description:
+        "Catálogo de productos con filtros y carrito básico usando JavaScript y manejo de estado.",
       link: "#",
     },
     {
       title: "To-do App",
-      description: "Lista de tareas con persistencia en localStorage, simple y útil.",
+      description:
+        "Lista de tareas con persistencia en localStorage, simple y útil para el día a día.",
+      link: "#",
+    },
+    {
+      title: "API de Productos",
+      description:
+        "API REST en Node.js + Express conectada a MongoDB, con endpoints CRUD y validaciones básicas.",
       link: "#",
     },
   ];
@@ -47,6 +55,7 @@ export default function App() {
       <Hero />
       <About />
       <Skills />
+      <BackendExperience />
       <Projects projects={projects} />
       <Certificates images={certificates} />
       <Contact />
