@@ -26,7 +26,7 @@ export default function App() {
       title: "E-commerce Fake (Frontend)",
       description:
         "Catálogo de productos con filtros y carrito básico usando JavaScript y manejo de estado.",
-      link: "#",
+      link: "https://web-ecommerce-q6hvm288r-facundo-buitragos-projects.vercel.app/",
     },
     {
       title: "To-do App",
