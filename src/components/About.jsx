@@ -10,6 +10,9 @@ export default function About() {
           aprender y participar en proyectos reales. Me especializo en HTML,
           CSS y JavaScript, y estoy profundizando cada vez más en React y en
           buenas prácticas de desarrollo moderno.
+          También tengo conocimientos en desarrollo backend con Node.js,
+          Express, MongoDB y creación de APIs REST. Me gusta tanto el frontend
+          como el backend, pudiendo trabajar en proyectos fullstack simples.
         </p>
       </div>
     </section>
