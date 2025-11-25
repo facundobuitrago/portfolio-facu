@@ -38,7 +38,7 @@ export default function App() {
       title: "API de Productos",
       description:
         "API REST en Node.js + Express conectada a MongoDB, con endpoints CRUD y validaciones básicas.",
-      link: "#",
+      link: "https://api-productos-m6sy.onrender.com/",
     },
   ];
 
