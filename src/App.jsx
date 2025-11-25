@@ -20,7 +20,7 @@ export default function App() {
       title: "Landing Page",
       description:
         "Página moderna construida con HTML, CSS y un enfoque mobile-first.",
-      link: "#",
+      link: "https://cerrajeria-9dejulio.vercel.app/",
     },
     {
       title: "E-commerce Fake (Frontend)",
