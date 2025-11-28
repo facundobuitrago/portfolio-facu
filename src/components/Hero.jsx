@@ -8,7 +8,7 @@ export default function Hero() {
     >
       <div className="max-w-5xl mx-auto px=4 md:px-4 text-center">
         <p className="text-sm uppercase tracking-[0.25em] text-blue-400/80 mb-4">
-          Desarrollador Frontend & Backend
+          Desarrollador Frontend
         </p>
         <h1 className="text-4xl md:text-5xl font-extrabold mb-4">
           Hola, soy{" "}
