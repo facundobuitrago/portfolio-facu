@@ -22,6 +22,8 @@ export default function About() {
             Mi objetivo es seguir creciendo profesionalmente, mejorar mis habilidades de frontend y fortalecer
             mi backend para participar en proyectos reales dentro de un equipo.
           </span>
+          <span>Actualmente creando nuevos proyectos en React y Node para ampliar mi portfolio.
+          </span>
         </p>
       </div>
     </section>
