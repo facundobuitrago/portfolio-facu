@@ -17,9 +17,9 @@ import WhatsAppButton from "./components/WhatsAppButton";
 export default function App() {
   const projects = [
     {
-      title: "Landing Page",
+      title: "Landing profesional en React",
       description:
-        "Página moderna construida con HTML, CSS y un enfoque mobile-first.",
+        "Landing page desarrollada con React, CSS y un enfoque mobile-first, mostrando servicios de manera clara y optimizada.",
       link: "https://cerrajeria-9dejulio.vercel.app/",
     },
     {
