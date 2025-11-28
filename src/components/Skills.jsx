@@ -23,7 +23,7 @@ const backendSkills = [
   { icon: <SiMongodb className="text-green-400" />, name: "MongoDB" },
   { icon: <TbApi className="text-purple-400" />, name: "APIs REST" },
   { icon: <SiJsonwebtokens className="text-pink-400" />, name: "JWT / Seguridad" },
-  { icon: <FaDatabase className="text-indigo-400" />, name: "Modelado de datos" },
+  { icon: <FaDatabase className="text-indigo-400" />, name: "CRUD con Mongoose" },
 ];
 
 const SkillGrid = ({ title, items }) => (
