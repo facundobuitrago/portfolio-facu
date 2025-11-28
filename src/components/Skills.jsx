@@ -22,7 +22,7 @@ const backendSkills = [
   { icon: <SiExpress className="text-slate-200" />, name: "Express" },
   { icon: <SiMongodb className="text-green-400" />, name: "MongoDB" },
   { icon: <TbApi className="text-purple-400" />, name: "APIs REST" },
-  { icon: <SiJsonwebtokens className="text-pink-400" />, name: "JWT / Seguridad" },
+  { icon: <SiJsonwebtokens className="text-pink-400" />, name: "JWT / Autenticación" },
   { icon: <FaDatabase className="text-indigo-400" />, name: "CRUD con Mongoose" },
 ];
 
