@@ -25,14 +25,8 @@ export default function App() {
     {
       title: "E-commerce Fake (Frontend)",
       description:
-        "Catálogo de productos con filtros y carrito básico usando JavaScript y manejo de estado.",
+        "E-commerce estático – Maquetación completa en HTML + SCSS, con diseño responsivo y uso de SweetAlert para alertas visuales. Catálogo de productos sin backend.",
       link: "https://web-ecommerce-q6hvm288r-facundo-buitragos-projects.vercel.app/",
-    },
-    {
-      title: "To-do App",
-      description:
-        "Lista de tareas con persistencia en localStorage, simple y útil para el día a día.",
-      link: "#",
     },
     {
       title: "API de Productos",

@@ -7,16 +7,20 @@ export default function About() {
         <h2 className="section-title">Sobre mí</h2>
         <p className="text-lg text-center text-slate-200/80 max-w-2xl mx-auto space-y-2">
           <span>
-            Soy un desarrollador <strong>frontend</strong> y <strong>backend</strong> autodidacta con muchas ganas de crecer,
-            aprender y participar en proyectos reales.
+            Desarrollador web con foco en <strong>frontend</strong>, orientado a crear interfaces claras,
+            modernas y fáciles de usar.
           </span>{" "}
           <span>
-            En el frontend trabajo con <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> y <strong>React</strong> para crear interfaces modernas,
-            limpias y fáciles de usar.
+            Trabajo con <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> y <strong>React</strong> para construir
+            experiencias responsivas y bien estructuradas.
           </span>{" "}
           <span>
-            En el backend tengo experiencia con <strong>Node.js</strong>, <strong>Express</strong> y <strong>MongoDB</strong>, creando APIs REST,
-            autenticación con <strong>JWT</strong> y lógica de negocio para aplicaciones completas.
+            También tengo conocimientos en <strong>Node.js</strong>, <strong>Express</strong> y <strong>MongoDB</strong>, 
+            desarrollando APIs básicas y entendiendo el flujo general de un backend para integrarlo con el frontend.
+          </span>{" "}
+          <span>
+            Mi objetivo es seguir creciendo profesionalmente, mejorar mis habilidades de frontend y fortalecer
+            mi backend para participar en proyectos reales dentro de un equipo.
           </span>
         </p>
       </div>

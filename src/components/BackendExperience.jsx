@@ -6,24 +6,24 @@ const items = [
   {
     icon: <FaServer className="text-emerald-400 text-3xl" />,
     title: "APIs REST con Node y Express",
-    desc: "Rutas, controladores, middlewares y manejo de errores para aplicaciones web.",
+    desc: "Creación de rutas, controladores y middlewares básicos para aplicaciones web.",
   },
   {
     icon: <TbDatabaseCog className="text-sky-400 text-3xl" />,
     title: "MongoDB y Mongoose",
-    desc: "Modelado de datos, esquemas, queries, paginación y relaciones entre colecciones.",
+    desc: "Conexión a base de datos, esquemas simples, validaciones y operaciones CRUD.",
   },
   {
     icon: <FaShoppingCart className="text-yellow-400 text-3xl" />,
-    title: "Lógica de negocio para e-commerce",
-    desc: "Carrito de compras, gestión de productos, filtros, autenticación básica con JWT.",
+    title: "Lógica inicial para e-commerce",
+    desc: "Gestión básica de productos y carrito, autenticación con JWT y estructura de API.",
   },
 ];
 
 export default function BackendExperience() {
   return (
     <section id="backend" className="py-16">
-      <div className="max-w-5xl mx-auto px=4 md:px-4">
+      <div className="max-w-5xl mx-auto px-4 md:px-4">
         <h2 className="section-title">Experiencia Backend</h2>
         <div className="grid md:grid-cols-3 gap-6">
           {items.map((item) => (
@@ -41,3 +41,4 @@ export default function BackendExperience() {
     </section>
   );
 }
+
